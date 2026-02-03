@@ -1,7 +1,7 @@
 # Born2BeRoot 🐧
 
-![License](https://img.shields.io/badge/license-MIT-green)
-![Platform](https://img.shields.io/badge/platform-Debian-blue)
+![License](https://img.shields.io/badge/license-MIT-green)  
+![Platform](https://img.shields.io/badge/platform-Debian-blue)  
 ![Status](https://img.shields.io/badge/status-completed-brightgreen)
 
 **A comprehensive Linux system administration and security lab built as part of the 42 curriculum.**  
@@ -192,8 +192,10 @@ All services configured with security best practices and enabled at startup.
 ## ⚡ How to Run / Test
 
 1. Clone the repository:
-git clone https://github.com/username/born2beroot.git
-cd born2beroot
+   ```bash
+   git clone https://github.com/username/born2beroot.git
+   cd born2beroot
+
 ---
 ## 📚 Resources
 
